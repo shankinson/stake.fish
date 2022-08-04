@@ -1,1 +1,1 @@
-# stake.fish
+# stakefish
